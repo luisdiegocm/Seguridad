@@ -2,10 +2,8 @@ package com.example
 
 class UsuarioController {
 
-    def index() { 
-		render "Hello World"
+    def index() {
 	}
-	def hi() { 
-		render "How are you?"
+	def hi() {
 	}
 }
